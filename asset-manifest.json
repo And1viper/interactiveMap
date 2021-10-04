@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/interactiveMap/static/css/main.aee9b65d.chunk.css",
-    "main.js": "/interactiveMap/static/js/main.b7aff0cd.chunk.js",
-    "main.js.map": "/interactiveMap/static/js/main.b7aff0cd.chunk.js.map",
-    "runtime-main.js": "/interactiveMap/static/js/runtime-main.21ba25cf.js",
-    "runtime-main.js.map": "/interactiveMap/static/js/runtime-main.21ba25cf.js.map",
-    "static/css/2.9345dda6.chunk.css": "/interactiveMap/static/css/2.9345dda6.chunk.css",
-    "static/js/2.5ed08975.chunk.js": "/interactiveMap/static/js/2.5ed08975.chunk.js",
-    "static/js/2.5ed08975.chunk.js.map": "/interactiveMap/static/js/2.5ed08975.chunk.js.map",
-    "index.html": "/interactiveMap/index.html",
-    "static/css/2.9345dda6.chunk.css.map": "/interactiveMap/static/css/2.9345dda6.chunk.css.map",
-    "static/css/main.aee9b65d.chunk.css.map": "/interactiveMap/static/css/main.aee9b65d.chunk.css.map",
-    "static/js/2.5ed08975.chunk.js.LICENSE.txt": "/interactiveMap/static/js/2.5ed08975.chunk.js.LICENSE.txt",
-    "static/media/spinner.8981e9a5.gif": "/interactiveMap/static/media/spinner.8981e9a5.gif"
+    "main.css": "/test/static/css/main.aee9b65d.chunk.css",
+    "main.js": "/test/static/js/main.b7aff0cd.chunk.js",
+    "main.js.map": "/test/static/js/main.b7aff0cd.chunk.js.map",
+    "runtime-main.js": "/test/static/js/runtime-main.ca4ed2b5.js",
+    "runtime-main.js.map": "/test/static/js/runtime-main.ca4ed2b5.js.map",
+    "static/css/2.9345dda6.chunk.css": "/test/static/css/2.9345dda6.chunk.css",
+    "static/js/2.47ab6b74.chunk.js": "/test/static/js/2.47ab6b74.chunk.js",
+    "static/js/2.47ab6b74.chunk.js.map": "/test/static/js/2.47ab6b74.chunk.js.map",
+    "index.html": "/test/index.html",
+    "static/css/2.9345dda6.chunk.css.map": "/test/static/css/2.9345dda6.chunk.css.map",
+    "static/css/main.aee9b65d.chunk.css.map": "/test/static/css/main.aee9b65d.chunk.css.map",
+    "static/js/2.47ab6b74.chunk.js.LICENSE.txt": "/test/static/js/2.47ab6b74.chunk.js.LICENSE.txt",
+    "static/media/spinner.8981e9a5.gif": "/test/static/media/spinner.8981e9a5.gif"
   },
   "entrypoints": [
-    "static/js/runtime-main.21ba25cf.js",
+    "static/js/runtime-main.ca4ed2b5.js",
     "static/css/2.9345dda6.chunk.css",
-    "static/js/2.5ed08975.chunk.js",
+    "static/js/2.47ab6b74.chunk.js",
     "static/css/main.aee9b65d.chunk.css",
     "static/js/main.b7aff0cd.chunk.js"
   ]
